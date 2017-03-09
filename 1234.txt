@@ -1,2 +1,3 @@
 new file 1234.txt
-asdfasdfsd sakfdjskdjf
+asdfasdfsd
+dev modified
